@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cybergangas</string>
+    <string name="leer">Leer</string>
+    <string name="actualizar">Actualizar</string>
+
+    <string name="longitud">Longitud:</string>
+    <string name="latitud">Latitud:</string>
+    <string name="tarjetaValor">Tarjeta con valor:</string>
+    <string name="mensaje">Mensaje:</string>
+
+    <string name="msg1">Acerque la tarjeta</string>
+    <string name="msg2">Bases de datos actualizada correctamente</string>
+    <string name="msg3">El pedido no se encuentra en la base de datos</string>
+    <string name="msg4">Ha de leer antes</string>
+    <string name="faltan_permisos">Buscando posición</string>
+    <string name="texto">texto</string>
+    <string name="faltan_permisos2">Buscando posición</string>
+    <string name="aviso_nolectura">Primero has de realizar la lectura</string>
+    <string name="aviso_lecturaOk">Lectura ok</string>
+    <string name="aviso_lecturaBad">Tu dispositivo no soporta NFC</string>
+    <string name="success_message">Lectura exitosa\n Actualización permitida</string>
+    <string name="aviso_noGPS">Se necesitan los datos del GPS, inténtelo de nuevo</string>
+
+</resources>
